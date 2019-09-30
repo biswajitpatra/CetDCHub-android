@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cet DC Hub</string>
+    <string name="but_search">Search</string>
+    <string name="txt_search">Check our hub</string>
+    <string name="but_link">Request</string>
+    <string name="txt_link">Make your request</string>
+</resources>
